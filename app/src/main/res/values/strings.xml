@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Transition</string>
+    <string name="tap_here_txt">TAP HERE</string>
+    <string name="shape">shape</string>
+</resources>
